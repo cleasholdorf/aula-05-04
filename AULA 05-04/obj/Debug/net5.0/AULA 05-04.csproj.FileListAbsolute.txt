@@ -1,0 +1,16 @@
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.exe
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.deps.json
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.runtimeconfig.json
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.runtimeconfig.dev.json
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.dll
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\ref\AULA 05-04.dll
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\bin\Debug\net5.0\AULA 05-04.pdb
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.csproj.AssemblyReference.cache
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.AssemblyInfoInputs.cache
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.AssemblyInfo.cs
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.csproj.CoreCompileInputs.cache
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.dll
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\ref\AULA 05-04.dll
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.pdb
+C:\Users\cleas\Desktop\c sharp\AULA 05-04\AULA 05-04\obj\Debug\net5.0\AULA 05-04.genruntimeconfig.cache
